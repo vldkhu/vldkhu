@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vladislav</h1>
-<h3 align="center">Go dev</h3>
+<h3 align="center">Go Developer</h3>
 
 - 📫 How to reach me **evirus777@yandex.ru**
 
